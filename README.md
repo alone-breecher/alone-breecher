@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @alone_breecher
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
+
+- 👀 I’m interested in Bug bounty Hunting
+
+-📫 How to reach me 
+
+</all handle are @alone_breecher>
 
 <!---
 alonebreecher/alonebreecher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
